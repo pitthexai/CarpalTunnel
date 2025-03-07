@@ -1,0 +1,1 @@
+{"_wandb":{"runtime":94},"train_per_image_iou":0.8717249035835266,"_timestamp":1.7413220152775512e+09,"val_per_image_iou":0.8560425043106079,"_step":39,"val_loss":0.07872700691223145,"val_dataset_iou":0.8544660210609436,"train_loss":0.061277806758880615,"_runtime":94.063527414,"train_dataset_iou":0.8729137778282166}

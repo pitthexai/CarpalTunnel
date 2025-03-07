@@ -1,0 +1,20 @@
+{"time":"2025-03-06T23:31:33.851452372-05:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/abk171/hexai_work/wandb/run-20250306_233133-rsrmn0ta/logs/debug-core.log"}
+{"time":"2025-03-06T23:31:33.966733026-05:00","level":"INFO","msg":"created new stream","id":"rsrmn0ta"}
+{"time":"2025-03-06T23:31:33.96681227-05:00","level":"INFO","msg":"stream: started","id":"rsrmn0ta"}
+{"time":"2025-03-06T23:31:33.966917808-05:00","level":"INFO","msg":"sender: started","stream_id":"rsrmn0ta"}
+{"time":"2025-03-06T23:31:33.96690243-05:00","level":"INFO","msg":"writer: Do: started","stream_id":"rsrmn0ta"}
+{"time":"2025-03-06T23:31:33.966953072-05:00","level":"INFO","msg":"handler: started","stream_id":"rsrmn0ta"}
+{"time":"2025-03-06T23:31:34.099096646-05:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-06T23:31:34.271062254-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-06T23:32:01.673774745-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-06T23:33:35.745874392-05:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-06T23:34:00.925135007-05:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-06T23:34:00.967083115-05:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-06T23:34:00.967860119-05:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-06T23:34:01.407527725-05:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-06T23:34:01.707979456-05:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-03-06T23:34:01.720695337-05:00","level":"INFO","msg":"stream: closing","id":"rsrmn0ta"}
+{"time":"2025-03-06T23:34:01.720728299-05:00","level":"INFO","msg":"handler: closed","stream_id":"rsrmn0ta"}
+{"time":"2025-03-06T23:34:01.72074328-05:00","level":"INFO","msg":"writer: Close: closed","stream_id":"rsrmn0ta"}
+{"time":"2025-03-06T23:34:01.720759347-05:00","level":"INFO","msg":"sender: closed","stream_id":"rsrmn0ta"}
+{"time":"2025-03-06T23:34:01.720844478-05:00","level":"INFO","msg":"stream: closed","id":"rsrmn0ta"}

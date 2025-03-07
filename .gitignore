@@ -1,0 +1,6 @@
+env
+runs
+yolo11n.pt
+data_yolo
+unet_runs/
+.ipynb_checkpoints/
