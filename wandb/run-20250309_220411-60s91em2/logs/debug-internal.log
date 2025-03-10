@@ -1,0 +1,16 @@
+{"time":"2025-03-09T22:04:11.558062119-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/abk171/hexai_work/wandb/run-20250309_220411-60s91em2/logs/debug-core.log"}
+{"time":"2025-03-09T22:04:11.669710951-04:00","level":"INFO","msg":"created new stream","id":"60s91em2"}
+{"time":"2025-03-09T22:04:11.669748372-04:00","level":"INFO","msg":"stream: started","id":"60s91em2"}
+{"time":"2025-03-09T22:04:11.669828094-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"60s91em2"}
+{"time":"2025-03-09T22:04:11.669891337-04:00","level":"INFO","msg":"handler: started","stream_id":"60s91em2"}
+{"time":"2025-03-09T22:04:11.669907976-04:00","level":"INFO","msg":"sender: started","stream_id":"60s91em2"}
+{"time":"2025-03-09T22:04:11.903406581-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T22:04:12.08313175-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T22:04:18.025191103-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T22:06:42.841590645-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T22:15:14.348949099-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T22:15:14.638711876-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T22:15:26.996454271-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T22:15:27.203831779-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T22:15:31.726373653-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T22:15:31.728916178-04:00","level":"INFO","msg":"Pausing system monitor"}

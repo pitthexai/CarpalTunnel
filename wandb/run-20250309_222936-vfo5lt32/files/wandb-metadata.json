@@ -1,0 +1,54 @@
+{
+  "os": "Linux-6.2.0-36-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.12",
+  "startedAt": "2025-03-10T02:29:36.500687Z",
+  "program": "unet.ipynb",
+  "codePath": "unet.ipynb",
+  "git": {
+    "remote": "https://abk171:@github.com/abk171/hexai_work.git",
+    "commit": "0dfe48c9300ed621f5469e0a34ea17ddba51bf2e"
+  },
+  "email": "abk171@pitt.edu",
+  "root": "/home/abk171/hexai_work",
+  "host": "bayes",
+  "executable": "/home/abk171/env/bin/python3",
+  "codePathLocal": "unet.ipynb",
+  "cpu_count": 40,
+  "cpu_count_logical": 80,
+  "gpu": "Quadro RTX 8000",
+  "gpu_count": 3,
+  "disk": {
+    "/": {
+      "total": "2012888514560",
+      "used": "1650496282624"
+    }
+  },
+  "memory": {
+    "total": "404273561600"
+  },
+  "cpu": {
+    "count": 40,
+    "countLogical": 80
+  },
+  "gpu_nvidia": [
+    {
+      "name": "Quadro RTX 8000",
+      "memoryTotal": "51539607552",
+      "cudaCores": 4608,
+      "architecture": "Turing"
+    },
+    {
+      "name": "Quadro RTX 8000",
+      "memoryTotal": "51539607552",
+      "cudaCores": 4608,
+      "architecture": "Turing"
+    },
+    {
+      "name": "Quadro RTX 8000",
+      "memoryTotal": "51539607552",
+      "cudaCores": 4608,
+      "architecture": "Turing"
+    }
+  ],
+  "cudaVersion": "12.5"
+}

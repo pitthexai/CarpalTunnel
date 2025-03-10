@@ -1,0 +1,20 @@
+{"time":"2025-03-09T22:26:25.447180979-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/abk171/hexai_work/wandb/run-20250309_222625-kg1a2hcw/logs/debug-core.log"}
+{"time":"2025-03-09T22:26:25.561549868-04:00","level":"INFO","msg":"created new stream","id":"kg1a2hcw"}
+{"time":"2025-03-09T22:26:25.561590541-04:00","level":"INFO","msg":"stream: started","id":"kg1a2hcw"}
+{"time":"2025-03-09T22:26:25.56167737-04:00","level":"INFO","msg":"handler: started","stream_id":"kg1a2hcw"}
+{"time":"2025-03-09T22:26:25.561671798-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"kg1a2hcw"}
+{"time":"2025-03-09T22:26:25.56170174-04:00","level":"INFO","msg":"sender: started","stream_id":"kg1a2hcw"}
+{"time":"2025-03-09T22:26:25.738836014-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T22:26:25.907111185-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T22:26:28.828711261-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T22:28:49.618313128-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T22:29:04.085986031-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T22:29:04.126984897-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T22:29:04.127849992-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T22:29:04.517493259-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T22:29:04.64260048-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-03-09T22:29:04.656642275-04:00","level":"INFO","msg":"stream: closing","id":"kg1a2hcw"}
+{"time":"2025-03-09T22:29:04.656668502-04:00","level":"INFO","msg":"handler: closed","stream_id":"kg1a2hcw"}
+{"time":"2025-03-09T22:29:04.656690914-04:00","level":"INFO","msg":"sender: closed","stream_id":"kg1a2hcw"}
+{"time":"2025-03-09T22:29:04.656684665-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"kg1a2hcw"}
+{"time":"2025-03-09T22:29:04.6567626-04:00","level":"INFO","msg":"stream: closed","id":"kg1a2hcw"}

@@ -1,0 +1,20 @@
+{"time":"2025-03-09T22:29:36.500427298-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/abk171/hexai_work/wandb/run-20250309_222936-vfo5lt32/logs/debug-core.log"}
+{"time":"2025-03-09T22:29:36.613648054-04:00","level":"INFO","msg":"created new stream","id":"vfo5lt32"}
+{"time":"2025-03-09T22:29:36.613687149-04:00","level":"INFO","msg":"stream: started","id":"vfo5lt32"}
+{"time":"2025-03-09T22:29:36.613709822-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"vfo5lt32"}
+{"time":"2025-03-09T22:29:36.613777889-04:00","level":"INFO","msg":"sender: started","stream_id":"vfo5lt32"}
+{"time":"2025-03-09T22:29:36.613782268-04:00","level":"INFO","msg":"handler: started","stream_id":"vfo5lt32"}
+{"time":"2025-03-09T22:29:36.737604607-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T22:29:36.89900637-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T22:29:41.212483227-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T22:32:05.551599375-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T22:32:09.120107794-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T22:32:09.163067713-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T22:32:09.163878126-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T22:32:09.529895021-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T22:32:09.629867287-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-03-09T22:32:09.639939279-04:00","level":"INFO","msg":"stream: closing","id":"vfo5lt32"}
+{"time":"2025-03-09T22:32:09.639965559-04:00","level":"INFO","msg":"handler: closed","stream_id":"vfo5lt32"}
+{"time":"2025-03-09T22:32:09.639979887-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"vfo5lt32"}
+{"time":"2025-03-09T22:32:09.639997271-04:00","level":"INFO","msg":"sender: closed","stream_id":"vfo5lt32"}
+{"time":"2025-03-09T22:32:09.640060539-04:00","level":"INFO","msg":"stream: closed","id":"vfo5lt32"}

@@ -1,0 +1,40 @@
+2025-03-09 21:55:31,004 INFO    MainThread:3203421 [wandb_setup.py:_flush():67] Current SDK version is 0.19.8
+2025-03-09 21:55:31,004 INFO    MainThread:3203421 [wandb_setup.py:_flush():67] Configure stats pid to 3203421
+2025-03-09 21:55:31,004 INFO    MainThread:3203421 [wandb_setup.py:_flush():67] Loading settings from /home/abk171/.config/wandb/settings
+2025-03-09 21:55:31,004 INFO    MainThread:3203421 [wandb_setup.py:_flush():67] Loading settings from /home/abk171/hexai_work/wandb/settings
+2025-03-09 21:55:31,004 INFO    MainThread:3203421 [wandb_setup.py:_flush():67] Loading settings from environment variables
+2025-03-09 21:55:31,005 INFO    MainThread:3203421 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/abk171/hexai_work/wandb/run-20250309_215531-d9tf62x4/logs/debug.log
+2025-03-09 21:55:31,005 INFO    MainThread:3203421 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/abk171/hexai_work/wandb/run-20250309_215531-d9tf62x4/logs/debug-internal.log
+2025-03-09 21:55:31,005 INFO    MainThread:3203421 [wandb_init.py:monkeypatch_ipython():599] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x7f83f0619a50>
+2025-03-09 21:55:31,005 INFO    MainThread:3203421 [wandb_init.py:init():761] calling init triggers
+2025-03-09 21:55:31,005 INFO    MainThread:3203421 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'epochs': 40, 'in_channels': 1, 'dropout': 0.2, 'decoder_attention_type': 'scse', 'init_lr': 0.005, 'weight_decay': 0.05, 'T_max': 10, 'eta_min': 0.0003, '_wandb': {}}
+2025-03-09 21:55:31,005 INFO    MainThread:3203421 [wandb_init.py:init():784] starting backend
+2025-03-09 21:55:31,005 INFO    MainThread:3203421 [wandb_init.py:init():788] sending inform_init request
+2025-03-09 21:55:31,008 INFO    MainThread:3203421 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-03-09 21:55:31,009 INFO    MainThread:3203421 [wandb_init.py:init():798] backend started and connected
+2025-03-09 21:55:31,012 INFO    MainThread:3203421 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-09 21:55:31,030 INFO    MainThread:3203421 [wandb_init.py:init():891] updated telemetry
+2025-03-09 21:55:31,034 INFO    MainThread:3203421 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-09 21:55:31,323 INFO    MainThread:3203421 [wandb_init.py:init():990] starting run threads in backend
+2025-03-09 21:55:31,459 INFO    MainThread:3203421 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-09 21:55:31,459 INFO    MainThread:3203421 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-09 21:55:31,459 INFO    MainThread:3203421 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-09 21:55:31,459 INFO    MainThread:3203421 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-09 21:55:31,461 INFO    MainThread:3203421 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-09 21:55:31,461 INFO    MainThread:3203421 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-09 21:55:31,462 INFO    MainThread:3203421 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-09 21:55:31,528 INFO    MainThread:3203421 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-09 21:58:09,098 INFO    MainThread:3203421 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-09 21:58:09,098 INFO    MainThread:3203421 [wandb_init.py:_pause_backend():564] pausing backend
+2025-03-09 21:58:31,652 INFO    MainThread:3203421 [wandb_init.py:_resume_backend():569] resuming backend
+2025-03-09 21:58:31,653 INFO    MainThread:3203421 [wandb_run.py:_finish():2112] finishing run abk171-university-of-pittsburgh/unet/d9tf62x4
+2025-03-09 21:58:31,654 INFO    MainThread:3203421 [jupyter.py:save_history():458] not saving jupyter history
+2025-03-09 21:58:31,654 INFO    MainThread:3203421 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-09 21:58:31,654 INFO    MainThread:3203421 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-09 21:58:31,654 INFO    MainThread:3203421 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-09 21:58:31,655 INFO    MainThread:3203421 [wandb_run.py:_restore():2322] restore
+2025-03-09 21:58:31,655 INFO    MainThread:3203421 [wandb_run.py:_restore():2328] restore done
+2025-03-09 21:58:32,166 INFO    MainThread:3203421 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-09 21:58:32,167 INFO    MainThread:3203421 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-09 21:58:32,170 INFO    MainThread:3203421 [wandb_run.py:_footer_sync_info():3917] logging synced files

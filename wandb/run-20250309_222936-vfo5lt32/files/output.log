@@ -1,0 +1,283 @@
+Epoch 1 / 40
+Train:   0%|                        | 0/3 [00:00<?, ?it/s]/tmp/ipykernel_3213091/2503740365.py:12: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+Validation: 100%|█| 1/1 [00:00<00:00,  2.58it/s, loss=0.34
+Train loss: 0.4685	 Learning rate: 0.0005
+per image IOU: 0.5195
+per dataset IOU: 0.5226
+Val loss: 0.4272
+per image IOU: 0.5168
+per dataset IOU: 0.5168
+Epoch 2 / 40
+Train loss: 0.3901	 Learning rate: 0.0005
+per image IOU: 0.6373
+per dataset IOU: 0.6412
+Val loss: 0.3968
+per image IOU: 0.5217
+per dataset IOU: 0.5217
+Epoch 3 / 40
+Train loss: 0.3269	 Learning rate: 0.0005
+per image IOU: 0.6545
+per dataset IOU: 0.6571
+Val loss: 0.3758
+per image IOU: 0.5327
+per dataset IOU: 0.5321
+Epoch 4 / 40
+Train loss: 0.2962	 Learning rate: 0.0005
+per image IOU: 0.6635
+per dataset IOU: 0.6631
+Val loss: 0.3592
+per image IOU: 0.5237
+per dataset IOU: 0.5236
+Epoch 5 / 40
+Train loss: 0.2594	 Learning rate: 0.0005
+per image IOU: 0.7063
+per dataset IOU: 0.7088
+Val loss: 0.3419
+per image IOU: 0.5322
+per dataset IOU: 0.5320
+Epoch 6 / 40
+Train loss: 0.2327	 Learning rate: 0.0005
+per image IOU: 0.7486
+per dataset IOU: 0.7516
+Val loss: 0.3264
+per image IOU: 0.5402
+per dataset IOU: 0.5398
+Epoch 7 / 40
+Train loss: 0.1972	 Learning rate: 0.0005
+per image IOU: 0.8062
+per dataset IOU: 0.8100
+Val loss: 0.3191
+per image IOU: 0.5403
+per dataset IOU: 0.5399
+Epoch 8 / 40
+Train loss: 0.1796	 Learning rate: 0.0005
+per image IOU: 0.8302
+per dataset IOU: 0.8312
+Val loss: 0.3109
+per image IOU: 0.5466
+per dataset IOU: 0.5460
+Epoch 9 / 40
+Train loss: 0.1667	 Learning rate: 0.0005
+per image IOU: 0.8430
+per dataset IOU: 0.8465
+Val loss: 0.3112
+per image IOU: 0.5375
+per dataset IOU: 0.5372
+Epoch 10 / 40
+Train loss: 0.1446	 Learning rate: 0.0005
+per image IOU: 0.8670
+per dataset IOU: 0.8695
+Val loss: 0.3000
+per image IOU: 0.5462
+per dataset IOU: 0.5459
+Epoch 11 / 40
+Train loss: 0.1308	 Learning rate: 0.0005
+per image IOU: 0.8729
+per dataset IOU: 0.8780
+Val loss: 0.2535
+per image IOU: 0.6316
+per dataset IOU: 0.6287
+Epoch 12 / 40
+Train loss: 0.1222	 Learning rate: 0.0005
+per image IOU: 0.8800
+per dataset IOU: 0.8828
+Val loss: 0.2572
+per image IOU: 0.6165
+per dataset IOU: 0.6137
+Epoch 13 / 40
+Train loss: 0.1077	 Learning rate: 0.0005
+per image IOU: 0.8970
+per dataset IOU: 0.8989
+Val loss: 0.2703
+per image IOU: 0.5829
+per dataset IOU: 0.5805
+Epoch 14 / 40
+Train loss: 0.1032	 Learning rate: 0.0005
+per image IOU: 0.8963
+per dataset IOU: 0.8970
+Val loss: 0.2617
+per image IOU: 0.5958
+per dataset IOU: 0.5925
+Epoch 15 / 40
+Train loss: 0.0922	 Learning rate: 0.0003
+per image IOU: 0.9067
+per dataset IOU: 0.9085
+Val loss: 0.2391
+per image IOU: 0.6405
+per dataset IOU: 0.6364
+Epoch 16 / 40
+Train loss: 0.0882	 Learning rate: 0.0003
+per image IOU: 0.9061
+per dataset IOU: 0.9069
+Val loss: 0.2171
+per image IOU: 0.6878
+per dataset IOU: 0.6828
+Epoch 17 / 40
+Train loss: 0.0857	 Learning rate: 0.0003
+per image IOU: 0.9112
+per dataset IOU: 0.9116
+Val loss: 0.2012
+per image IOU: 0.7225
+per dataset IOU: 0.7173
+Epoch 18 / 40
+Train loss: 0.0802	 Learning rate: 0.0003
+per image IOU: 0.9131
+per dataset IOU: 0.9139
+Val loss: 0.1877
+per image IOU: 0.7510
+per dataset IOU: 0.7466
+Epoch 19 / 40
+Train loss: 0.0781	 Learning rate: 0.0003
+per image IOU: 0.9149
+per dataset IOU: 0.9158
+Val loss: 0.1746
+per image IOU: 0.7718
+per dataset IOU: 0.7686
+Epoch 20 / 40
+Train loss: 0.0748	 Learning rate: 0.0003
+per image IOU: 0.9132
+per dataset IOU: 0.9154
+Val loss: 0.1570
+per image IOU: 0.7820
+per dataset IOU: 0.7797
+Epoch 21 / 40
+Train loss: 0.0763	 Learning rate: 0.0003
+per image IOU: 0.9083
+per dataset IOU: 0.9112
+Val loss: 0.1491
+per image IOU: 0.7839
+per dataset IOU: 0.7819
+Epoch 22 / 40
+Train loss: 0.0692	 Learning rate: 0.0003
+per image IOU: 0.9166
+per dataset IOU: 0.9197
+Val loss: 0.1435
+per image IOU: 0.7961
+per dataset IOU: 0.7937
+Epoch 23 / 40
+Train loss: 0.0674	 Learning rate: 0.0003
+per image IOU: 0.9211
+per dataset IOU: 0.9218
+Val loss: 0.1393
+per image IOU: 0.8041
+per dataset IOU: 0.8020
+Epoch 24 / 40
+Train loss: 0.0649	 Learning rate: 0.0003
+per image IOU: 0.9221
+per dataset IOU: 0.9234
+Val loss: 0.1367
+per image IOU: 0.8009
+per dataset IOU: 0.7992
+Epoch 25 / 40
+Train loss: 0.0625	 Learning rate: 0.0003
+per image IOU: 0.9234
+per dataset IOU: 0.9246
+Val loss: 0.1375
+per image IOU: 0.7942
+per dataset IOU: 0.7921
+Epoch 26 / 40
+Train loss: 0.0611	 Learning rate: 0.0003
+per image IOU: 0.9234
+per dataset IOU: 0.9249
+Val loss: 0.1391
+per image IOU: 0.7910
+per dataset IOU: 0.7883
+Epoch 27 / 40
+Train loss: 0.0560	 Learning rate: 0.0003
+per image IOU: 0.9323
+per dataset IOU: 0.9337
+Val loss: 0.1360
+per image IOU: 0.7963
+per dataset IOU: 0.7937
+Epoch 28 / 40
+Train loss: 0.0561	 Learning rate: 0.0002
+per image IOU: 0.9317
+per dataset IOU: 0.9328
+Val loss: 0.1284
+per image IOU: 0.8082
+per dataset IOU: 0.8062
+Epoch 29 / 40
+Train loss: 0.0534	 Learning rate: 0.0002
+per image IOU: 0.9343
+per dataset IOU: 0.9358
+Val loss: 0.1209
+per image IOU: 0.8190
+per dataset IOU: 0.8174
+Epoch 30 / 40
+Train loss: 0.0544	 Learning rate: 0.0002
+per image IOU: 0.9305
+per dataset IOU: 0.9312
+Val loss: 0.1191
+per image IOU: 0.8196
+per dataset IOU: 0.8180
+Epoch 31 / 40
+Train loss: 0.0518	 Learning rate: 0.0002
+per image IOU: 0.9346
+per dataset IOU: 0.9355
+Val loss: 0.1200
+per image IOU: 0.8162
+per dataset IOU: 0.8144
+Epoch 32 / 40
+Train loss: 0.0517	 Learning rate: 0.0002
+per image IOU: 0.9345
+per dataset IOU: 0.9358
+Val loss: 0.1201
+per image IOU: 0.8147
+per dataset IOU: 0.8128
+Epoch 33 / 40
+Train loss: 0.0494	 Learning rate: 0.0002
+per image IOU: 0.9353
+per dataset IOU: 0.9365
+Val loss: 0.1180
+per image IOU: 0.8179
+per dataset IOU: 0.8160
+Epoch 34 / 40
+Train loss: 0.0500	 Learning rate: 0.0002
+per image IOU: 0.9360
+per dataset IOU: 0.9372
+Val loss: 0.1156
+per image IOU: 0.8216
+per dataset IOU: 0.8196
+Epoch 35 / 40
+Train loss: 0.0491	 Learning rate: 0.0002
+per image IOU: 0.9353
+per dataset IOU: 0.9357
+Val loss: 0.1161
+per image IOU: 0.8190
+per dataset IOU: 0.8171
+Epoch 36 / 40
+Train loss: 0.0487	 Learning rate: 0.0002
+per image IOU: 0.9369
+per dataset IOU: 0.9376
+Val loss: 0.1161
+per image IOU: 0.8173
+per dataset IOU: 0.8156
+Epoch 37 / 40
+Train loss: 0.0486	 Learning rate: 0.0002
+per image IOU: 0.9365
+per dataset IOU: 0.9369
+Val loss: 0.1119
+per image IOU: 0.8236
+per dataset IOU: 0.8220
+Epoch 38 / 40
+Train loss: 0.0453	 Learning rate: 0.0002
+per image IOU: 0.9402
+per dataset IOU: 0.9413
+Val loss: 0.1088
+per image IOU: 0.8282
+per dataset IOU: 0.8267
+Epoch 39 / 40
+Train loss: 0.0462	 Learning rate: 0.0002
+per image IOU: 0.9415
+per dataset IOU: 0.9426
+Val loss: 0.1069
+per image IOU: 0.8310
+per dataset IOU: 0.8295
+Epoch 40 / 40
+Train loss: 0.0449	 Learning rate: 0.0002
+per image IOU: 0.9421
+per dataset IOU: 0.9425
+Val loss: 0.1054
+per image IOU: 0.8333
+per dataset IOU: 0.8318

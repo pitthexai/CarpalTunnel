@@ -1,0 +1,36 @@
+2025-03-09 22:21:09,941 INFO    MainThread:3213091 [wandb_init.py:setup_run_log_directory():647] Logging user logs to /home/abk171/hexai_work/wandb/run-20250309_222109-i5f87lx7/logs/debug.log
+2025-03-09 22:21:09,941 INFO    MainThread:3213091 [wandb_init.py:setup_run_log_directory():648] Logging internal logs to /home/abk171/hexai_work/wandb/run-20250309_222109-i5f87lx7/logs/debug-internal.log
+2025-03-09 22:21:09,941 INFO    MainThread:3213091 [wandb_init.py:init():761] calling init triggers
+2025-03-09 22:21:09,941 INFO    MainThread:3213091 [wandb_init.py:init():766] wandb.init called with sweep_config: {}
+config: {'epochs': 40, 'in_channels': 1, 'dropout': 0.2, 'decoder_attention_type': 'scse', 'init_lr': 0.005, 'weight_decay': 0.05, 'T_max': 10, 'eta_min': 3e-05, '_wandb': {}}
+2025-03-09 22:21:09,941 INFO    MainThread:3213091 [wandb_init.py:init():773] finishing previous run: 4yjnkboi
+2025-03-09 22:21:09,942 INFO    MainThread:3213091 [wandb_run.py:_finish():2112] finishing run abk171-university-of-pittsburgh/unet/4yjnkboi
+2025-03-09 22:21:09,942 INFO    MainThread:3213091 [jupyter.py:save_history():458] not saving jupyter history
+2025-03-09 22:21:09,942 INFO    MainThread:3213091 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-03-09 22:21:09,942 INFO    MainThread:3213091 [wandb_init.py:_jupyter_teardown():581] cleaning up jupyter logic
+2025-03-09 22:21:09,942 INFO    MainThread:3213091 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-09 22:21:09,942 INFO    MainThread:3213091 [wandb_run.py:_restore():2322] restore
+2025-03-09 22:21:09,943 INFO    MainThread:3213091 [wandb_run.py:_restore():2328] restore done
+2025-03-09 22:21:10,466 INFO    MainThread:3213091 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-09 22:21:10,467 INFO    MainThread:3213091 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-09 22:21:10,467 INFO    MainThread:3213091 [wandb_run.py:_footer_sync_info():3917] logging synced files
+2025-03-09 22:21:10,472 INFO    MainThread:3213091 [wandb_init.py:init():784] starting backend
+2025-03-09 22:21:10,472 INFO    MainThread:3213091 [wandb_init.py:init():788] sending inform_init request
+2025-03-09 22:21:10,474 INFO    MainThread:3213091 [backend.py:_multiprocessing_setup():101] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2025-03-09 22:21:10,474 INFO    MainThread:3213091 [wandb_init.py:init():798] backend started and connected
+2025-03-09 22:21:10,476 INFO    MainThread:3213091 [wandb_run.py:_label_probe_notebook():1204] probe notebook
+2025-03-09 22:21:10,491 INFO    MainThread:3213091 [wandb_init.py:init():891] updated telemetry
+2025-03-09 22:21:10,498 INFO    MainThread:3213091 [wandb_init.py:init():915] communicating run to backend with 90.0 second timeout
+2025-03-09 22:21:10,761 INFO    MainThread:3213091 [wandb_init.py:init():990] starting run threads in backend
+2025-03-09 22:21:10,888 INFO    MainThread:3213091 [wandb_run.py:_console_start():2375] atexit reg
+2025-03-09 22:21:10,888 INFO    MainThread:3213091 [wandb_run.py:_redirect():2227] redirect: wrap_raw
+2025-03-09 22:21:10,888 INFO    MainThread:3213091 [wandb_run.py:_redirect():2292] Wrapping output streams.
+2025-03-09 22:21:10,888 INFO    MainThread:3213091 [wandb_run.py:_redirect():2315] Redirects installed.
+2025-03-09 22:21:10,889 INFO    MainThread:3213091 [wandb_init.py:init():1032] run started, returning control to user process
+2025-03-09 22:25:57,893 INFO    MainThread:3213091 [wandb_run.py:_finish():2112] finishing run abk171-university-of-pittsburgh/unet/i5f87lx7
+2025-03-09 22:25:57,894 INFO    MainThread:3213091 [wandb_run.py:_atexit_cleanup():2340] got exitcode: 0
+2025-03-09 22:25:57,895 INFO    MainThread:3213091 [wandb_run.py:_restore():2322] restore
+2025-03-09 22:25:57,895 INFO    MainThread:3213091 [wandb_run.py:_restore():2328] restore done
+2025-03-09 22:25:58,374 INFO    MainThread:3213091 [wandb_run.py:_footer_history_summary_info():3956] rendering history
+2025-03-09 22:25:58,376 INFO    MainThread:3213091 [wandb_run.py:_footer_history_summary_info():3988] rendering summary
+2025-03-09 22:25:58,378 INFO    MainThread:3213091 [wandb_run.py:_footer_sync_info():3917] logging synced files

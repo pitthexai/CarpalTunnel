@@ -1,0 +1,17 @@
+Epoch 1 / 40
+Train:   0%|                        | 0/3 [00:00<?, ?it/s]/tmp/ipykernel_3213091/3753527618.py:12: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+  with torch.cuda.amp.autocast():
+/home/abk171/env/lib/python3.10/site-packages/torch/optim/lr_scheduler.py:243: UserWarning: The epoch parameter in `scheduler.step()` was not necessary and is being deprecated where possible. Please use `scheduler.step()` to step the scheduler. During the deprecation, if epoch is different from None, the closed form is used instead of the new chainable form, where available. Please open an issue if you are unable to replicate your use case: https://github.com/pytorch/pytorch/issues/new/choose.
+Train loss: 0.4242	 Learning rate: 0.0005
+per image IOU: 0.4497
+per dataset IOU: 0.4453
+Val loss: 0.4349
+per image IOU: 0.5143
+per dataset IOU: 0.5144
+  warnings.warn(EPOCH_DEPRECATION_WARNING, UserWarning)
+Epoch 2 / 40
+Train:   0%|                        | 0/3 [00:00<?, ?it/s]/tmp/ipykernel_3213091/3753527618.py:12: FutureWarning: `torch.cuda.amp.autocast(args...)` is deprecated. Please use `torch.amp.autocast('cuda', args...)` instead.
+Epoch 1 / 40
+  with torch.cuda.amp.autocast():
+Train: 100%|█| 3/3 [00:02<00:00,  1.21it/s, loss=0.2149 (0/tmp/ipykernel_3213091/881433186.py:16: FutureWarning: `torch.cuda.amp.GradScaler(args...)` is deprecated. Please use `torch.amp.GradScaler('cuda', args...)` instead.
+  scaler = torch.cuda.amp.GradScaler()

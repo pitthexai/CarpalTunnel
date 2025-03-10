@@ -1,0 +1,20 @@
+{"time":"2025-03-09T22:45:26.584460969-04:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/home/abk171/hexai_work/wandb/run-20250309_224526-bhd8okl2/logs/debug-core.log"}
+{"time":"2025-03-09T22:45:26.699988842-04:00","level":"INFO","msg":"created new stream","id":"bhd8okl2"}
+{"time":"2025-03-09T22:45:26.70003467-04:00","level":"INFO","msg":"stream: started","id":"bhd8okl2"}
+{"time":"2025-03-09T22:45:26.700127297-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"bhd8okl2"}
+{"time":"2025-03-09T22:45:26.700190285-04:00","level":"INFO","msg":"handler: started","stream_id":"bhd8okl2"}
+{"time":"2025-03-09T22:45:26.700134665-04:00","level":"INFO","msg":"sender: started","stream_id":"bhd8okl2"}
+{"time":"2025-03-09T22:45:26.878794149-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-09T22:45:27.050977927-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T22:45:28.660250533-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T22:47:06.110418323-04:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-09T22:47:33.448518592-04:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-03-09T22:47:33.491112138-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-03-09T22:47:33.491902758-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-03-09T22:47:33.851988204-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-03-09T22:47:33.932595469-04:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-03-09T22:47:33.943873381-04:00","level":"INFO","msg":"stream: closing","id":"bhd8okl2"}
+{"time":"2025-03-09T22:47:33.943898496-04:00","level":"INFO","msg":"handler: closed","stream_id":"bhd8okl2"}
+{"time":"2025-03-09T22:47:33.943912901-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"bhd8okl2"}
+{"time":"2025-03-09T22:47:33.943944442-04:00","level":"INFO","msg":"sender: closed","stream_id":"bhd8okl2"}
+{"time":"2025-03-09T22:47:33.943994044-04:00","level":"INFO","msg":"stream: closed","id":"bhd8okl2"}
