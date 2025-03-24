@@ -5,3 +5,5 @@ data_yolo
 unet_runs/
 .ipynb_checkpoints/
 classification_runs
+wandb/*
+yolo/*
