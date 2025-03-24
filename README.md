@@ -25,5 +25,6 @@
 | Val Loss | 0.5978   |
 | Learning Rate (LR) | 0.0005   |
 | Val Accuracy | 94.12%  |
-|Precision: 0.86 | Recall: 1.00 |
+|Precision | 0.86 |
+| Recall | 1.00 |
 
