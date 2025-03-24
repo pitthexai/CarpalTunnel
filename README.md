@@ -3,7 +3,8 @@
 
 | Class  | Images | Instances | Box(P) | R    | mAP50 | m |
 |--------|--------|-----------|--------|------|-------|---|
-| all    | 33     | 33        | 0.98   | 0.818 | 0.959 | 0.78 |
+| all    |19      |  19       | 0.949  |0.984 |0.99   |0.819|
+
 
 - [x] Segmentation
 
@@ -21,8 +22,8 @@
 
 | Metric      | Value     |
 |------------|----------|
-| Train Loss | 0.7386   |
+| Val Loss | 0.5978   |
 | Learning Rate (LR) | 0.0005   |
-| Val Loss   | 0.6184   |
-| Val Accuracy | 72.41%  |
+| Val Accuracy | 94.12%  |
+|Precision: 0.86 | Recall: 1.00 |
 
