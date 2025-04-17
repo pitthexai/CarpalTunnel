@@ -113,6 +113,26 @@ class ClassificationTail(nn.Module):
     def forward(self, x):
         return self.fc(x)
 
+class RegressionTail(nn.Module):
+    def __init__(self, in_features, dropout_rate=0.5):
+        super().__init__()
+        self.fc = nn.Sequential(
+             nn.Linear(in_features, in_features // 2),
+            nn.BatchNorm1d(in_features // 2),
+            nn.ReLU(),
+            nn.Dropout(dropout_rate),
+
+            nn.Linear(in_features // 2, in_features // 4),
+            nn.BatchNorm1d(in_features // 4),
+            nn.ReLU(),
+            nn.Dropout(dropout_rate), 
+        )
+        self.out = nn.Linear(in_features // 4, 1)
+    def forward(self,x):
+        x = self.fc(x)
+        x = self.out(x)
+        return x
+
 class FullModel(nn.Module):
     def __init__(self, backbone, tail):
         super(FullModel, self).__init__()
