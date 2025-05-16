@@ -1,12 +1,12 @@
 ## Carpal tunnel syndrome
-- [x] Localization
+- [x] Localization: YOLO.ipynb
 
 | Class  | Images | Instances | Box(P) | R    | mAP50 | m |
 |--------|--------|-----------|--------|------|-------|---|
 | all    |19      |  19       | 0.949  |0.984 |0.99   |0.819|
 
 
-- [x] Segmentation
+- [x] Segmentation: unet.ipynb
 
 | Metric                 | Value    |
 |------------------------|---------|
@@ -18,7 +18,7 @@
 | val_loss              | 0.0968  |
 | val_per_image_iou     | 0.86065 |
 
-- [x] Classification
+- [x] Classification classification.ipynb
 
 | Metric      | Value     |
 |------------|----------|
@@ -27,4 +27,6 @@
 | Val Accuracy | 94.12%  |
 |Precision | 0.86 |
 | Recall | 1.00 |
+
+- [x] Regression regression.ipynb
 
